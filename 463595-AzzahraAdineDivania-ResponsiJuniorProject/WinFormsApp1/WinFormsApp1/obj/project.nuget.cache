@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+KUSzFwpMBfHAxPb8sKQ38iiFxQAaz7lu/CkxZH8g0/aHzb583ai+ncqyexPQeQfZzh9dOh4s15Z8ZjNP/JYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Azzahra A Divania\\source\\repos\\463595-AzzahraAdineDivania-ResponsiJuniorProject\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Azzahra A Divania\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Azzahra A Divania\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Azzahra A Divania\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
